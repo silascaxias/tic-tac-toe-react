@@ -2,6 +2,9 @@
 
 A simple Tic Tac Toe game built with React.js. This application allows two players to play Tic Tac Toe on a 3x3 grid, and it includes basic features such as detecting win conditions and restarting the game.
 
+## Demo
+![image](https://github.com/user-attachments/assets/54edb7b6-4b81-4300-8320-7c139b95ebf2)
+
 ## Features
 
 - Playable Tic Tac Toe game with a 3x3 grid.
